@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910374192195",
+    "firebase_url": "https://loginpage-c782a.firebaseio.com",
+    "project_id": "loginpage-c782a",
+    "storage_bucket": "loginpage-c782a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910374192195:android:261bff5e805f424b",
+        "android_client_info": {
+          "package_name": "com.example.phaneendra.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910374192195-i3r4r0gkcr2t1dpqg94pl48tlpdorm7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phaneendra.loginpage",
+            "certificate_hash": "f3a000015ec1ded47a6f290cdf8d5de1f7f78d07"
+          }
+        },
+        {
+          "client_id": "910374192195-5a8o2e5osh7fhsd7vmnrjvnl4jq1e8qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOESDz9PrS9MgQ3p0I5Ori01rzJ8M1xM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910374192195-5a8o2e5osh7fhsd7vmnrjvnl4jq1e8qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
